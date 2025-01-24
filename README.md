@@ -19,4 +19,15 @@ This is a responsive **Registration Form** built using **HTML, CSS, and JavaScri
 ## 🚀 How to Run the Project
 1. **Clone the Repository**
    ```sh
-   
+   https://github.com/ATIM-MONICA/LMS12-PROJECT.git
+
+2. Navigate to the Project Folder
+   cd registration-form
+
+3. Open index.html in a browser
+.Double-click index.html
+.OR use Live Server if working in VS Code
+
+4. 📩 Contact
+For any issues or suggestions, feel free to reach out!
+Github link 
