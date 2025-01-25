@@ -26,7 +26,6 @@ This is a responsive **Registration Form** built using **HTML, CSS, and JavaScri
 
 3. Open index.html in a browser
 **Double-click index.html
-**OR use Live Server if working in VS Code
 
 4. 📩 Contact
 For any issues or suggestions, feel free to reach out!
