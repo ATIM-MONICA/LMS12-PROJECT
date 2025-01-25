@@ -25,9 +25,11 @@ This is a responsive **Registration Form** built using **HTML, CSS, and JavaScri
    cd registration-form
 
 3. Open index.html in a browser
-.Double-click index.html
-.OR use Live Server if working in VS Code
+**Double-click index.html
+**OR use Live Server if working in VS Code
 
 4. 📩 Contact
 For any issues or suggestions, feel free to reach out!
-Github link 
+**Github link
+**![image](https://github.com/user-attachments/assets/024f3bec-dbbe-4b57-85d5-329bc33b7855)
+
