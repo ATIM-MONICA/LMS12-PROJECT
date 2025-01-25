@@ -30,6 +30,18 @@ This is a responsive **Registration Form** built using **HTML, CSS, and JavaScri
 
 4. 📩 Contact
 For any issues or suggestions, feel free to reach out!
-##Github link
--
+
+Mobile phone: +256782569360
+
+Email: [monicadeann.ja@gmail.com](mailto\:monicadeann.ja@gmail.com)
+
+Github: [https://github.com/ATIM-MONICA](https://github.com/ATIM-MONICA)
+
+Linkedin: https\://www\.linkedin.com/in/atim-monica-a4a043299
+
+
+
+
+
+
 
